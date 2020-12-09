@@ -1,5 +1,3 @@
-# Runar Ovesen Hjerpbakk
-
 ![Runar's github stats](https://github-readme-stats.vercel.app/api?username=sankra&show_icons=true)
 
 <!--
