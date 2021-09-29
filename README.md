@@ -1,6 +1,6 @@
-![Runar's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sankra&layout=compact&theme=dark&langs_count=10)
-
 ![Runar's github stats](https://github-readme-stats.vercel.app/api?username=sankra&show_icons=true)
+
+![Runar's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sankra&layout=compact&theme=dark&langs_count=10)
 
 <!--
 **Sankra/Sankra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
